@@ -8,8 +8,9 @@
         "Squagward"
     ],
     "contact": {
-        "homepage": "https://github.com/camnwalter/Fabric-Example-Mod",
-        "sources": "https://github.com/camnwalter/Fabric-Example-Mod"
+        "homepage": "https://github.com/camnwalter/FabricExampleMod",
+        "sources": "https://github.com/camnwalter/FabricExampleMod",
+        "issues": "https://github.com/camnwalter/FabricExampleMod/issues"
     },
     "license": "MIT",
     "icon": "assets/examplemod/icon.png",
