@@ -17,12 +17,12 @@
 4) Apply
 ```
 
-### Set run configuration to Java 8
+### Set run configuration to Java 17+
 ```
 1) Ctrl + Shift + A
 2) Type "Edit configurations"
 3) Open it
-4) Change Build and run to Java 17, and the classpath to examplemod.main
+4) Change Build and run to Java 17 or above, and the classpath to examplemod.main
 5) Apply
 ```
 
